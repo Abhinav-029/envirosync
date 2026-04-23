@@ -20,6 +20,7 @@ AC, fan, heater, and lighting.
    streamlit run app.py
 
 ## Project Structure
+```
 project/
 ├── app.py          # Streamlit UI
 ├── backend.py      # Automation logic
@@ -27,3 +28,4 @@ project/
 ├── icons/
 │   └── fan.png
 └── data/           # Auto-created on first run
+```
